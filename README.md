@@ -56,3 +56,6 @@ yarn start
 
 <h4>License</h4>
 This project is licensed under the MIT license. Copyright (c) 2020 Adrian Pietrzak.
+
+![bank - public](https://user-images.githubusercontent.com/87811387/226333766-321a6fb2-523d-4de6-b050-a5b4d7f45a2e.png)
+
